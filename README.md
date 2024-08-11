@@ -1,2 +1,2 @@
 # Portfolio
-This is my Portfolio towards everything I have made
+This is my Portfolio of everything I have made apart from a few parts as I couldn't find them sadly
